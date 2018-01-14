@@ -1,0 +1,7 @@
+
+The following files have been resolved:
+   mysql:mysql-connector-java:jar:5.1.6:compile
+   com.googlecode.json-simple:json-simple:jar:1.1:compile
+   commons-io:commons-io:jar:2.2:compile
+   commons-fileupload:commons-fileupload:jar:1.3.3:compile
+
