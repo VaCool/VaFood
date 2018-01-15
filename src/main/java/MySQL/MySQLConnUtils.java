@@ -10,11 +10,10 @@ public class MySQLConnUtils {
    // Connect to MySQL
    public static Connection getMySQLConnection() throws SQLException,
            ClassNotFoundException {
-       String hostName = "localhost";
- 
-       String dbName = "vafood";
-       String userName = "root";
-       String password = "root";
+       String hostName = "us-cdbr-iron-east-05.cleardb.net";
+       String dbName = "heroku_089fa678f348eef";
+       String userName = "b67dac3db4205e";
+       String password = "0cb8fa3b";
  
        return getMySQLConnection(hostName, dbName, userName, password);
    }
